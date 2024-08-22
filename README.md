@@ -95,7 +95,7 @@ See this paper for more details:
 
 For running each sample code:
 
-- [Python 3.11.x](https://www.python.org/)
+- [Python 3.12.x](https://www.python.org/)
  
 - [NumPy](https://numpy.org/)
  
@@ -407,7 +407,7 @@ Ref:
 
 ### RRT\* with reeds-shepp path
 
-![Robotics/animation.gif at master · AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/PathPlanning/RRTStarReedsShepp/animation.gif))
+![Robotics/animation.gif at master · AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/PathPlanning/RRTStarReedsShepp/animation.gif)
 
 Path planning for a car robot with RRT\* and reeds shepp path planner.
 
